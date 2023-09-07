@@ -6,7 +6,7 @@ import {
 	AppInputTextField,
 	AppListItem,
 	defineCustomElements,
-} from '@chepe/stencil-react';
+} from '@sajanv88/stencil-react';
 
 void defineCustomElements();
 
